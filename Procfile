@@ -1,1 +1,1 @@
-web: gunicorn thermal.wsgi --log-file -
+web: gunicorn thermalai.wsgi --log-file -
